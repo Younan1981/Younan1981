@@ -5,7 +5,7 @@
 ## Work:
 - 💬 Ask me about Ruby, HTML, CSS, Javascript, SQL
 - 📫 How to reach me: ymichael81@hotmail.com
-- 👨‍💻 All of my projects are available at: https://github.com/Younan1981
+- 👨‍💻 All of my projects are available at: https://github.com/YounanMichael
 📄 Know about my experiences: https://flowcv.com/resume/h1jv096i0k
 
 ## Skills:
@@ -29,5 +29,5 @@
 
 ## Social:
 
-- Github profile: https://github.com/Younan1981
+- Github profile: https://github.com/YounanMichael
 - Linkedin profile: www.linkedin.com/in/younan-michael
